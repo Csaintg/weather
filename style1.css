@@ -1,0 +1,22 @@
+h1 {
+    font-family: impact;
+    font-size: 15px;
+}
+h2 {
+    font-size: 10px;
+}
+.sun1 {
+    position: fixed; left:100px; top:5px;
+}
+.sun2 {
+        border: dotted gray;
+        background-color: #FFFEE0;
+        
+}
+.snow {
+    border: dotted gray;   
+}
+.cloud {
+    border: dotted gray;
+    background-color: #D2D2D2;   
+}
